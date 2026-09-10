@@ -343,7 +343,7 @@
         <p>
             Email:
             <a href="u9353362165@id.gle">
-               RenegadeGames@gmail
+               Renegadestudio@gmail.com
             </a>
         </p>
     </div>
